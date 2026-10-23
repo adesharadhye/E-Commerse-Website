@@ -1,0 +1,10 @@
+Command To run Frontend
+
+cd "C:\Users\adesh_ieyxqmw\Documents\Django\E-Commerse Project\ecommerce\frontend"
+npm.cmd run dev
+
+
+Command to run Backend
+
+cd "C:\Users\adesh_ieyxqmw\Documents\Django\E-Commerse Project\ecommerce"
+py manage.py runserver 8001
